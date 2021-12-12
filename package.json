@@ -1,0 +1,26 @@
+{
+  "name": "udemy-css-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shared.js",
+  "dependencies": {
+    "node": "^14.8.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathen-mitchell/udemy-css-basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathen-mitchell/udemy-css-basics/issues"
+  },
+  "homepage": "https://github.com/nathen-mitchell/udemy-css-basics#readme"
+}
